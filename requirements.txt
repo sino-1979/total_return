@@ -2,5 +2,6 @@ pandas
 numpy
 matplotlib
 streamlit
-ipafont
 japanize-matplotlib
+
+
