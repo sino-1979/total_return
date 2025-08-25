@@ -1,4 +1,6 @@
 pandas
+numpy
 matplotlib
 streamlit
-numpy
+ipafont
+japanize-matplotlib
