@@ -2,6 +2,4 @@ pandas
 numpy
 matplotlib
 streamlit
-japanize-matplotlib
-
-
+japanize-matplotlib>=1.1.3
